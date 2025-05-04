@@ -6,7 +6,7 @@
 | 3   | 관리자는 모든 사용자의 자전거 대여 기록에 접근할 수 있어야 하며, 기간별 대여 금액 및 횟수를 확인할 수 있어야 함. | 통계 기능                |
 
 # 2. Use Case Diagram
-![다이어그램](/Users/pado/Library/Mobile Documents/com~apple~CloudDocs/HIU/4-1/소공/과제/image.png)
+![다이어그램](./image.png)
 
 # 3. Use Case Description
 #### 1. 결제 및 요금 조회 기능
