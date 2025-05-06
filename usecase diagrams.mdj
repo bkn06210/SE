@@ -260,7 +260,11 @@
 											"parentStyle": true,
 											"left": -80,
 											"top": 112,
+<<<<<<< HEAD
 											"width": 77.9365234375,
+=======
+											"width": 73.67724609375,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -446,7 +450,11 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"width": 77.9365234375,
+=======
+											"width": 73.67724609375,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -926,7 +934,11 @@
 											"parentStyle": true,
 											"left": -80,
 											"top": 96,
+<<<<<<< HEAD
 											"width": 77.9365234375,
+=======
+											"width": 73.67724609375,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1136,7 +1148,11 @@
 											"parentStyle": true,
 											"left": -128,
 											"top": 64,
+<<<<<<< HEAD
 											"width": 77.9365234375,
+=======
+											"width": 73.67724609375,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1346,7 +1362,11 @@
 											"parentStyle": true,
 											"left": -64,
 											"top": -208,
+<<<<<<< HEAD
 											"width": 77.9365234375,
+=======
+											"width": 73.67724609375,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1541,7 +1561,11 @@
 											"parentStyle": true,
 											"left": 325.5,
 											"top": 420,
+<<<<<<< HEAD
 											"width": 69,
+=======
+											"width": 68,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 											"height": 13,
 											"text": "대여소 등록"
 										},
@@ -1556,7 +1580,11 @@
 											"parentStyle": true,
 											"left": -32,
 											"top": -48,
+<<<<<<< HEAD
 											"width": 77.9365234375,
+=======
+											"width": 73.67724609375,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1579,7 +1607,11 @@
 									"parentStyle": true,
 									"left": 320.5,
 									"top": 413,
+<<<<<<< HEAD
 									"width": 79,
+=======
+									"width": 78.61181640625,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWl539hvzfxjQ="
@@ -1685,7 +1717,11 @@
 							"containerChangeable": true,
 							"left": 304,
 							"top": 408,
+<<<<<<< HEAD
 							"width": 112,
+=======
+							"width": 111,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWl539hvzeaQk="
@@ -1751,7 +1787,11 @@
 											"parentStyle": true,
 											"left": 325.5,
 											"top": 500,
+<<<<<<< HEAD
 											"width": 69,
+=======
+											"width": 68,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 											"height": 13,
 											"text": "대여소 조회"
 										},
@@ -1766,7 +1806,11 @@
 											"parentStyle": true,
 											"left": -80,
 											"top": -16,
+<<<<<<< HEAD
 											"width": 77.9365234375,
+=======
+											"width": 73.67724609375,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1789,7 +1833,11 @@
 									"parentStyle": true,
 									"left": 320.5,
 									"top": 493,
+<<<<<<< HEAD
 									"width": 79,
+=======
+									"width": 78.61181640625,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWl5/WLf1AHEk="
@@ -1895,7 +1943,11 @@
 							"containerChangeable": true,
 							"left": 304,
 							"top": 488,
+<<<<<<< HEAD
 							"width": 112,
+=======
+							"width": 111,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWl5/WLf0/P4U="
@@ -1959,11 +2011,19 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 521.5,
 											"top": 468,
 											"width": 127,
 											"height": 13,
 											"text": "대여소 상세 내용 확인"
+=======
+											"left": 513,
+											"top": 468,
+											"width": 84,
+											"height": 13,
+											"text": "상세 내용 확인"
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 										},
 										{
 											"_type": "LabelView",
@@ -1976,7 +2036,11 @@
 											"parentStyle": true,
 											"left": 240,
 											"top": -208,
+<<<<<<< HEAD
 											"width": 77.9365234375,
+=======
+											"width": 73.67724609375,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1997,9 +2061,15 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 516.5,
 									"top": 461,
 									"width": 137.83544921875,
+=======
+									"left": 508,
+									"top": 461,
+									"width": 95.2236328125,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWl5/tBv2Y9IQ="
@@ -2105,7 +2175,11 @@
 							"containerChangeable": true,
 							"left": 488,
 							"top": 456,
+<<<<<<< HEAD
 							"width": 194,
+=======
+							"width": 134,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWl5/tBv2XUBU="
@@ -2171,7 +2245,11 @@
 											"parentStyle": true,
 											"left": 485.5,
 											"top": 572,
+<<<<<<< HEAD
 											"width": 69,
+=======
+											"width": 68,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 											"height": 13,
 											"text": "대여소 삭제"
 										},
@@ -2186,7 +2264,11 @@
 											"parentStyle": true,
 											"left": 192,
 											"top": -128,
+<<<<<<< HEAD
 											"width": 77.9365234375,
+=======
+											"width": 73.67724609375,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -2209,7 +2291,11 @@
 									"parentStyle": true,
 									"left": 480.5,
 									"top": 565,
+<<<<<<< HEAD
 									"width": 79,
+=======
+									"width": 78.61181640625,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWl6BHxP33KyA="
@@ -2315,7 +2401,11 @@
 							"containerChangeable": true,
 							"left": 464,
 							"top": 560,
+<<<<<<< HEAD
 							"width": 112,
+=======
+							"width": 111,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWl6BHxP32Z0g="
@@ -2449,7 +2539,11 @@
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"left": 154,
+<<<<<<< HEAD
 									"top": 428,
+=======
+									"top": 427,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -2513,8 +2607,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 270,
 									"top": 407,
+=======
+									"left": 269,
+									"top": 406,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -2534,8 +2633,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 283,
 									"top": 446,
+=======
+									"left": 284,
+									"top": 445,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -2583,7 +2687,11 @@
 								"$ref": "AAAAAAGWl4/2jPYDG9U="
 							},
 							"lineStyle": 1,
+<<<<<<< HEAD
 							"points": "132:467;303:436",
+=======
+							"points": "132:467;303:435",
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWl6CgJf7OrU8="
@@ -3242,7 +3350,11 @@
 											"parentStyle": true,
 											"left": -32,
 											"top": -64,
+<<<<<<< HEAD
 											"width": 77.9365234375,
+=======
+											"width": 73.67724609375,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -4156,8 +4268,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 454,
 									"top": 500,
+=======
+									"left": 453,
+									"top": 498,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -4177,8 +4294,13 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 433,
 									"top": 460,
+=======
+									"left": 432,
+									"top": 457,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 									"width": 53.49169921875,
 									"height": 13,
 									"alpha": 4.272681623929688,
@@ -4201,8 +4323,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 449,
 									"top": 471,
+=======
+									"left": 448,
+									"top": 469,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -4221,7 +4348,11 @@
 								"$ref": "AAAAAAGWl5/tBv2Whaw="
 							},
 							"lineStyle": 1,
+<<<<<<< HEAD
 							"points": "487:487;417:497",
+=======
+							"points": "487:484;416:496",
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWl6frrjWWnaM="
@@ -4255,7 +4386,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 435,
+=======
+									"left": 434,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 									"top": 548,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -4276,7 +4411,11 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 441,
+=======
+									"left": 440,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 									"top": 520,
 									"width": 53.49169921875,
 									"height": 13,
@@ -4300,7 +4439,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 446,
+=======
+									"left": 445,
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 									"top": 521,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -4320,7 +4463,11 @@
 								"$ref": "AAAAAAGWl6BHxP31tfs="
 							},
 							"lineStyle": 1,
+<<<<<<< HEAD
 							"points": "480:559;402:524",
+=======
+							"points": "479:559;401:524",
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWl6gwD0HeAgo="
@@ -4634,7 +4781,11 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
+<<<<<<< HEAD
 					"name": "대여소 상세 내용 확인",
+=======
+					"name": "상세 내용 확인",
+>>>>>>> 26b68aeac6dacc86b5364ee6f95fa4c41b79e7cf
 					"ownedElements": [
 						{
 							"_type": "UMLExtend",
