@@ -1,0 +1,57 @@
+[Estrel] Wed May 7 23:52:05 2025 +0900 extension addition a476a15
+[Estrel] Wed May 7 23:38:07 2025 +0900 req list merge + u.c diagram mod a4d9133
+[Ko Hyun Jun] Wed May 7 22:43:40 2025 +0900 리스트 수정 9d6bcbe
+[HeeJae Chung] Wed May 7 22:42:47 2025 +0900 Add files via upload 0eb82dd
+[JANGHYUNK] Wed May 7 11:35:43 2025 +0900 Add files via upload 0345492
+[JANGHYUNK] Wed May 7 01:14:29 2025 +0900 Delete JH/JH_USECASE.mdj fd61326
+[JANGHYUNK] Wed May 7 01:14:20 2025 +0900 Delete JH/JH_USECASE수정본.pdf 0118ae9
+[JANGHYUNK] Wed May 7 01:14:06 2025 +0900 Delete JH/jh1.pdf 8759b80
+[JANGHYUNK] Wed May 7 01:12:17 2025 +0900 Add files via upload 9775718
+[JANGHYUNK] Wed May 7 01:01:17 2025 +0900 Delete JH/Use_Case_Description.numbers c73c74c
+[JANGHYUNK] Wed May 7 00:59:06 2025 +0900 Rename Use_Case_Description.xlsx to Use_Case_Description.numbers 103ecf7
+[JANGHYUNK] Wed May 7 00:58:08 2025 +0900 Rename Use_Case_Description.xlsc to Use_Case_Description.xlsx 704a450
+[JANGHYUNK] Wed May 7 00:57:39 2025 +0900 Rename Use_Case_Description.numbers to Use_Case_Description.xlsc df836d0
+[JANGHYUNK] Wed May 7 00:56:44 2025 +0900 Add files via upload ccdf823
+[Ko Hyun Jun] Wed May 7 00:39:30 2025 +0900 수정 ae84503
+[Ko Hyun Jun] Wed May 7 00:35:23 2025 +0900 수정 bdcbd71
+[Ko Hyun Jun] Wed May 7 00:30:31 2025 +0900 수정 8658c03
+[Estrel] Wed May 7 00:25:55 2025 +0900 Merge branch 'main' of https://github.com/bkn06210/SE 26b68ae
+[Estrel] Wed May 7 00:25:44 2025 +0900 file deviding 07e7319
+[JANGHYUNK] Wed May 7 00:24:20 2025 +0900 Rename 0507USECASE.mdj to JH/0507USECASE.mdj e4d6c42
+[JANGHYUNK] Wed May 7 00:24:01 2025 +0900 Add files via upload 2db91aa
+[Estrel] Wed May 7 00:15:12 2025 +0900 requirement list modification 42d21ab
+[Estrel] Tue May 6 22:36:45 2025 +0900 Merge branch 'main' of https://github.com/bkn06210/SE 57e8898
+[Estrel] Tue May 6 22:36:41 2025 +0900 extension modification 0184481
+[HeeJae Chung] Mon May 5 02:29:26 2025 +0900 Update func_10-13.mdj fe08c39
+[JANGHYUNK] Mon May 5 00:22:15 2025 +0900 Rename 수정본.mdj to JH/USECASE수정본.mdj 1e456ed
+[JANGHYUNK] Mon May 5 00:21:20 2025 +0900 Rename JH_USECASE수정본.pdf to JH/JH_USECASE수정본.pdf 061ac8a
+[JANGHYUNK] Mon May 5 00:21:04 2025 +0900 Add files via upload 3791237
+[JANGHYUNK] Mon May 5 00:20:29 2025 +0900 Rename jh1.pdf to JH/jh1.pdf 9f282cd
+[JANGHYUNK] Mon May 5 00:20:15 2025 +0900 Rename JH_USECASE.mdj to JH/JH_USECASE.mdj 5a73999
+[JANGHYUNK] Mon May 5 00:19:58 2025 +0900 Rename JH.md to JH/JH.md bfba6ee
+[HeeJae Chung] Mon May 5 00:07:48 2025 +0900 Update 다이어그램 40fddb7
+[HeeJae Chung] Mon May 5 00:07:10 2025 +0900 Delete padoz3/func_10-13.png 088a7a0
+[HeeJae Chung] Mon May 5 00:05:53 2025 +0900 Add files via upload d6a5d22
+[Estrel] Sun May 4 22:49:34 2025 +0900 use case diagram modification 0acea8e
+[Estrel] Sun May 4 21:59:08 2025 +0900 Merge branch 'main' of https://github.com/bkn06210/SE 707e3e6
+[Estrel] Sun May 4 21:58:59 2025 +0900 use case diagram 0558f91
+[JANGHYUNK] Sun May 4 21:58:42 2025 +0900 Rename JH_USECASE to JH_USECASE.mdj b736a98
+[JANGHYUNK] Sun May 4 21:50:17 2025 +0900 Rename JH to JH.md 365e933
+[Ko Hyun Jun] Sun May 4 21:44:33 2025 +0900 Add files via upload 04f77af
+[Ko Hyun Jun] Sun May 4 21:40:14 2025 +0900 Merge branch 'main' of https://github.com/bkn06210/SE 9e752c0
+[JANGHYUNK] Sun May 4 21:39:47 2025 +0900 Add files via upload 41b404f
+[HeeJae Chung] Sun May 4 21:39:09 2025 +0900 Update func_10-13.md 368c157
+[Ko Hyun Jun] Sun May 4 21:39:05 2025 +0900 Merge branch 'main' of https://github.com/bkn06210/SE 191f239
+[HeeJae Chung] Sun May 4 21:37:55 2025 +0900 Update func_10-13.md 981e3fc
+[JANGHYUNK] Sun May 4 21:36:44 2025 +0900 JH 5910d8c
+[HeeJae Chung] Sun May 4 21:35:51 2025 +0900 Rename practice_1.md to func_10-13.md 9775a5d
+[HeeJae Chung] Sun May 4 21:35:31 2025 +0900 Rename image.png to func_10-13.png 42cddd0
+[HeeJae Chung] Sun May 4 21:35:14 2025 +0900 Create func_10-13.mdj 4dd953f
+[JANGHYUNK] Sun May 4 21:35:00 2025 +0900 Create JH_USECASE b99aac7
+[HeeJae Chung] Sun May 4 21:32:35 2025 +0900 Rename practice_1.md to padoz3/practice_1.md a1ee547
+[HeeJae Chung] Sun May 4 21:32:05 2025 +0900 Rename image.png to padoz3/image.png 96c3eac
+[JANGHYUNK] Sun May 4 21:30:19 2025 +0900 Create JH 67c4c3d
+[Estrel] Sun May 4 21:28:10 2025 +0900 function5-7 ad0bf57
+[HeeJae Chung] Sun May 4 21:25:38 2025 +0900 이미지 경로 수정 36c58c1
+[Ko Hyun Jun] Sun May 4 21:25:34 2025 +0900 usecase diagrams1 eb06d2a
+[PADO] Sun May 4 21:24:53 2025 +0900 Initial commit 361753e
